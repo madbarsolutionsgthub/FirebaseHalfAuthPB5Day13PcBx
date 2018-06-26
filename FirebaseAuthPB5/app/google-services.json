@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "116656191382",
+    "firebase_url": "https://training-52785.firebaseio.com",
+    "project_id": "training-52785",
+    "storage_bucket": "training-52785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116656191382:android:c0309575dcff04e5",
+        "android_client_info": {
+          "package_name": "com.pencilbox.user.firebasetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116656191382-8pphdpqid3v3vmr91ojj82guh22a5f5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pencilbox.user.firebasetraining",
+            "certificate_hash": "8cb6d5eb10417e188ff089498a21df611d8dc847"
+          }
+        },
+        {
+          "client_id": "116656191382-jep5g01pr2oehcckvav7o4m017blbeh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQUjDWMhowHuKujWRZ-yZvCmars2SI7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116656191382-jep5g01pr2oehcckvav7o4m017blbeh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116656191382:android:e85826a94697ba9e",
+        "android_client_info": {
+          "package_name": "org.bitm.firebasemad32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116656191382-jep5g01pr2oehcckvav7o4m017blbeh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQUjDWMhowHuKujWRZ-yZvCmars2SI7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116656191382:android:2bb1dc96390bc0c3",
+        "android_client_info": {
+          "package_name": "org.bitm.firebasemad33"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116656191382-jep5g01pr2oehcckvav7o4m017blbeh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQUjDWMhowHuKujWRZ-yZvCmars2SI7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116656191382:android:05ca4bba5df3af78",
+        "android_client_info": {
+          "package_name": "org.bitm.firebasemad35"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116656191382-jep5g01pr2oehcckvav7o4m017blbeh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQUjDWMhowHuKujWRZ-yZvCmars2SI7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116656191382:android:fe649361ee2a22a8",
+        "android_client_info": {
+          "package_name": "org.bitm.pencilbox.firebaseauthpb5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116656191382-jep5g01pr2oehcckvav7o4m017blbeh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQUjDWMhowHuKujWRZ-yZvCmars2SI7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
